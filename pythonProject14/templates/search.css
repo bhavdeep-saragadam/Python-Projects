@@ -1,0 +1,23 @@
+#Searchhead {
+    width: 50%;
+    height: 10%;
+}
+
+#search[type=text] {
+    position: relative;
+    left: 70%;
+    top: 5%;
+    width: 50%;
+    box-sizing: border-box;
+    border: grey;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: #303832;
+    padding: 20px;
+    color: indianred;
+    transition: 500ms;
+  }
+  #search:hover {
+      
+      border: 20px indianred;
+  }
